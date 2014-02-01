@@ -8,9 +8,9 @@ Gem::Specification.new do |spec|
   spec.version       = Saral::VERSION
   spec.authors       = ["Arvind Vyas"]
   spec.email         = ["arvindvyas07@gmail.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
-  spec.homepage      = ""
+  spec.description   = %q{A Rack based Application }
+  spec.summary       = %q{A Rack based Application Made with Training}
+  spec.homepage      = "https://plus.google.com/+ArvindVyas"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
